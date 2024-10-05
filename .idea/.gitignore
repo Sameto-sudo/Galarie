@@ -1,6 +1,13 @@
-# Default ignored files
+# IDE-Dateien ignorieren
 /shelf/
 /workspace.xml
+*.iml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
 # Datasource local storage ignored files
